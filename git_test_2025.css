@@ -1,0 +1,6 @@
+header {
+    color : pink;
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
